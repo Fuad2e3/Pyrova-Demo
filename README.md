@@ -34,6 +34,38 @@
 -   🏆 **Achievements & Challenges**: Earn badges and stay motivated.
 -   👥 **Community Engagement**: Connect and compete with other fitness enthusiasts.
 
+## 📸 App Screenshots
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="photo/1.jpg" width="200"></td>
+      <td><img src="photo/2.jpg" width="200"></td>
+      <td><img src="photo/3.jpg" width="200"></td>
+    </tr>
+    <tr>
+      <td><img src="photo/4.jpg" width="200"></td>
+      <td><img src="photo/5.jpg" width="200"></td>
+      <td><img src="photo/6.jpg" width="200"></td>
+    </tr>
+    <tr>
+      <td><img src="photo/7.jpg" width="200"></td>
+      <td><img src="photo/8.jpg" width="200"></td>
+      <td><img src="photo/9.jpg" width="200"></td>
+    </tr>
+    <tr>
+      <td><img src="photo/10.jpg" width="200"></td>
+      <td><img src="photo/11.jpg" width="200"></td>
+      <td><img src="photo/12.jpg" width="200"></td>
+    </tr>
+    <tr>
+      <td><img src="photo/13.jpg" width="200"></td>
+      <td><img src="photo/14.jpg" width="200"></td>
+      <td><img src="photo/15.jpg" width="200"></td>
+    </tr>
+  </table>
+</div>
+
 ## 🛠️ Tech Stack
 
 -   **Frontend**: Flutter (Dart)
