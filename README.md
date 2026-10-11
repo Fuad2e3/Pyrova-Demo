@@ -109,7 +109,7 @@ Pyrova/
 │   ├── assets/                  # Icons, illustrations, and Lottie animations
 │   └── pubspec.yaml
 ├── server/                      # Node.js + Express REST API Backend
-│   ├── config/                  # Database connections & environment setup
+│   ├── config/                  # Database & system configuration
 │   ├── controllers/             # Workout logic, Nutrition calculus & User auth
 │   ├── models/                  # MySQL relational schemas
 │   ├── routes/                  # API endpoints
@@ -134,32 +134,11 @@ Pyrova/
 
 ---
 
-## ⚙️ Getting Started
-
-### Backend Setup
-```bash
-cd server
-npm install
-# Configure MySQL credentials in .env
-npm start
-```
-
-### Mobile App Setup
-```bash
-cd client
-flutter pub get
-flutter run
-```
-
----
-
 ## 📄 License
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <div align="center">
 
-**Developed with ❤️ by Fuad**  
-*Developed by Softece*  
-*Pyrova*
+**Developed ❤️ by Softece**
 
 </div>
